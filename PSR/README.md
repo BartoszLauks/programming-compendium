@@ -1,0 +1,1 @@
+PSR (PHP Standards Recommendations) — PHP Framework Interop Group (PHP-FIG) to grupa osób związanych z największymi projektami PHP, które wspólnie rozwijają PSR. Myślę, że każdy programista PHP powinien znać standardy stylów kodowania PSR-1 i PSR-12 (dawniej PSR-2). Wszystkie aktualne zestawy standardów można znaleźć tutaj
